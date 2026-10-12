@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: rbc-kafka-msg
+server:
+  port: 8091

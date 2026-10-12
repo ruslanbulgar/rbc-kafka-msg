@@ -9,5 +9,4 @@ public class RbcKafkaMsgApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RbcKafkaMsgApplication.class, args);
 	}
-
 }
